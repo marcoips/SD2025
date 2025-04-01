@@ -108,7 +108,7 @@ public class Program
 {
     public static void Main()
     {
-        WavyTemperatura wavy = new WavyTemperatura("192.168.1.100", 8080, "WAVY_TEMP_001");
+        WavyTemperatura wavy = new WavyTemperatura("127.0.0.1", 5000, "WAVY_TEMP_001");
         wavy.Iniciar();
 
         Console.WriteLine("Pressione ENTER para parar...");
