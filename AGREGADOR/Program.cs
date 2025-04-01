@@ -9,6 +9,7 @@ class AGREGADOR
     private TcpListener listener;
     private int port = 5000;
 
+    
     public AGREGADOR()
     {
         listener = new TcpListener(IPAddress.Any, port);
@@ -35,8 +36,18 @@ class AGREGADOR
         string message = Encoding.ASCII.GetString(buffer, 0, bytesRead);
         Console.WriteLine("Recebido: " + message);
 
-        // Aqui você pode adicionar lógica para processar e encaminhar dados para o SERVIDOR
+        //adicionar lógica para processar e encaminhar dados para o SERVIDOR
 
         client.Close();
+    }
+
+    static void Main(string[] args)
+
+    {
+
+        AGREGADOR server = new AGREGADOR();
+
+        server.Start();
+
     }
 }

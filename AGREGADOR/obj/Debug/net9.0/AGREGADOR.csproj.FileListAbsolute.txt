@@ -3,3 +3,13 @@ C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AG
 C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.AssemblyInfo.cs
 C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.csproj.CoreCompileInputs.cache
 C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.sourcelink.json
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\bin\Debug\net9.0\AGREGADOR.exe
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\bin\Debug\net9.0\AGREGADOR.deps.json
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\bin\Debug\net9.0\AGREGADOR.runtimeconfig.json
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\bin\Debug\net9.0\AGREGADOR.dll
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\bin\Debug\net9.0\AGREGADOR.pdb
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.dll
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\refint\AGREGADOR.dll
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.pdb
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.genruntimeconfig.cache
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\ref\AGREGADOR.dll
