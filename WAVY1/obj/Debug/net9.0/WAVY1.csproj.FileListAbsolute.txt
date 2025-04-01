@@ -1,0 +1,15 @@
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\bin\Debug\net9.0\WAVY1.exe
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\bin\Debug\net9.0\WAVY1.deps.json
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\bin\Debug\net9.0\WAVY1.runtimeconfig.json
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\bin\Debug\net9.0\WAVY1.dll
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\bin\Debug\net9.0\WAVY1.pdb
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\obj\Debug\net9.0\WAVY1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\obj\Debug\net9.0\WAVY1.AssemblyInfoInputs.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\obj\Debug\net9.0\WAVY1.AssemblyInfo.cs
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\obj\Debug\net9.0\WAVY1.csproj.CoreCompileInputs.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\obj\Debug\net9.0\WAVY1.sourcelink.json
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\obj\Debug\net9.0\WAVY1.dll
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\obj\Debug\net9.0\refint\WAVY1.dll
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\obj\Debug\net9.0\WAVY1.pdb
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\obj\Debug\net9.0\WAVY1.genruntimeconfig.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\WAVY1\obj\Debug\net9.0\ref\WAVY1.dll
