@@ -1,0 +1,5 @@
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.AssemblyInfoInputs.cache
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.AssemblyInfo.cs
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.csproj.CoreCompileInputs.cache
+C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.sourcelink.json
