@@ -1,0 +1,5 @@
+C:\Users\joao1\source\repos\marcoips\SD2025\Adicionar\obj\Debug\net9.0\Adicionar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao1\source\repos\marcoips\SD2025\Adicionar\obj\Debug\net9.0\Adicionar.AssemblyInfoInputs.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\Adicionar\obj\Debug\net9.0\Adicionar.AssemblyInfo.cs
+C:\Users\joao1\source\repos\marcoips\SD2025\Adicionar\obj\Debug\net9.0\Adicionar.csproj.CoreCompileInputs.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\Adicionar\obj\Debug\net9.0\Adicionar.sourcelink.json

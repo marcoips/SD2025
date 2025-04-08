@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AGREGADOR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fab9d59d12f47a75a6efd328e39d9c68ace8ddc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d681c1c63207e6135f368f896eb98c480d5514bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AGREGADOR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AGREGADOR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

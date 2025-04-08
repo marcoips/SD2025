@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "HNPmcrd8WOI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao1\\source\\repos\\marcoips\\SD2025\\DatabaseManager\\DatabaseManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao1\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.3\\microsoft.data.sqlite.core.9.0.3.nupkg.sha512",
+    "C:\\Users\\joao1\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\joao1\\.nuget\\packages\\system.data.sqlite.linq\\1.0.119\\system.data.sqlite.linq.1.0.119.nupkg.sha512",
+    "C:\\Users\\joao1\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Data.SQLite.Linq 1.0.119' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net9.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Data.SQLite.Linq",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

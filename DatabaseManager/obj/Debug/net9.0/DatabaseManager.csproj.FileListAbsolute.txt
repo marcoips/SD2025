@@ -1,0 +1,6 @@
+C:\Users\joao1\source\repos\marcoips\SD2025\DatabaseManager\obj\Debug\net9.0\DatabaseManager.csproj.AssemblyReference.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\DatabaseManager\obj\Debug\net9.0\DatabaseManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao1\source\repos\marcoips\SD2025\DatabaseManager\obj\Debug\net9.0\DatabaseManager.AssemblyInfoInputs.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\DatabaseManager\obj\Debug\net9.0\DatabaseManager.AssemblyInfo.cs
+C:\Users\joao1\source\repos\marcoips\SD2025\DatabaseManager\obj\Debug\net9.0\DatabaseManager.csproj.CoreCompileInputs.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\DatabaseManager\obj\Debug\net9.0\DatabaseManager.sourcelink.json

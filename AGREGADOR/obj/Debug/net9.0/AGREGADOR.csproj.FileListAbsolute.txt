@@ -13,3 +13,18 @@ C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\re
 C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.pdb
 C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.genruntimeconfig.cache
 C:\Users\Marco Santos\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\ref\AGREGADOR.dll
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\bin\Debug\net9.0\AGREGADOR.exe
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\bin\Debug\net9.0\AGREGADOR.deps.json
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\bin\Debug\net9.0\AGREGADOR.runtimeconfig.json
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\bin\Debug\net9.0\AGREGADOR.dll
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\bin\Debug\net9.0\AGREGADOR.pdb
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.AssemblyInfoInputs.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.AssemblyInfo.cs
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.csproj.CoreCompileInputs.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.sourcelink.json
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.dll
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\refint\AGREGADOR.dll
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.pdb
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\AGREGADOR.genruntimeconfig.cache
+C:\Users\joao1\source\repos\marcoips\SD2025\AGREGADOR\obj\Debug\net9.0\ref\AGREGADOR.dll

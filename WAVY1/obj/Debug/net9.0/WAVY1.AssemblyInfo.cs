@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WAVY1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69ff9a6190feaf2b2b3a2a964df22fb91f295aec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d681c1c63207e6135f368f896eb98c480d5514bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("WAVY1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WAVY1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

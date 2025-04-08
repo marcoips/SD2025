@@ -1,53 +1,54 @@
 ﻿using System;
-using System.Net;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 
-class AGREGADOR
+class Aggregator
 {
-    private TcpListener listener;
-    private int port = 5000;
+    private TcpClient serverClient;
+    private static Mutex mutex = new Mutex(); // Mutex para controle de acesso
+    private DatabaseManager dbManager;
 
-    
-    public AGREGADOR()
+    public Aggregator(string serverIp, int serverPort, string dbFilePath)
     {
-        listener = new TcpListener(IPAddress.Any, port);
+        serverClient = new TcpClient(serverIp, serverPort);
+        dbManager = new DatabaseManager(dbFilePath);
     }
 
-    public void Start()
+    public void ReceiveData(string data)
     {
-        listener.Start();
-        Console.WriteLine("AGREGADOR iniciado...");
-        while (true)
+        Console.WriteLine($"Dados recebidos da WAVY: {data}");
+
+        // Simulação de pré-processamento
+        string processedData = PreprocessData(data);
+
+        // Acesso concorrente ao recurso
+        mutex.WaitOne(); // Aguarda o acesso ao recurso
+        try
         {
-            TcpClient client = listener.AcceptTcpClient();
-            Thread clientThread = new Thread(HandleClient);
-            clientThread.Start(client);
+            // Armazenar dados na base de dados
+            dbManager.InsertData("WAVY1", processedData); // Supondo que o ID da WAVY seja "WAVY1"
+            Console.WriteLine("Dados armazenados na base de dados.");
         }
+        finally
+        {
+            mutex.ReleaseMutex(); // Libera o acesso ao recurso
+        }
+
+        // Enviar dados processados para o SERVIDOR
+        SendData("WAVY1", processedData); // Supondo que o ID da WAVY seja "WAVY1"
     }
 
-    private void HandleClient(object obj)
+    private string PreprocessData(string data)
     {
-        TcpClient client = (TcpClient)obj;
-        NetworkStream stream = client.GetStream();
-        byte[] buffer = new byte[256];
-        int bytesRead = stream.Read(buffer, 0, buffer.Length);
-        string message = Encoding.ASCII.GetString(buffer, 0, bytesRead);
-        Console.WriteLine("Recebido: " + message);
-
-        //adicionar lógica para processar e encaminhar dados para o SERVIDOR
-
-        client.Close();
+        return $"Processado: {data}";
     }
 
-    static void Main(string[] args)
-
+    public void SendData(string wavyId, string data)
     {
-
-        AGREGADOR server = new AGREGADOR();
-
-        server.Start();
-
+        NetworkStream stream = serverClient.GetStream();
+        string message = $"INICIO:{wavyId}:{data}";
+        byte[] buffer = Encoding.ASCII.GetBytes(message);
+        stream.Write(buffer, 0, buffer.Length);
     }
 }
