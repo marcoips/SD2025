@@ -1,0 +1,14 @@
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\bin\Debug\net9.0\Wavy.exe
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\bin\Debug\net9.0\Wavy.deps.json
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\bin\Debug\net9.0\Wavy.runtimeconfig.json
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\bin\Debug\net9.0\Wavy.dll
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\bin\Debug\net9.0\Wavy.pdb
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\obj\Debug\net9.0\Wavy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\obj\Debug\net9.0\Wavy.AssemblyInfoInputs.cache
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\obj\Debug\net9.0\Wavy.AssemblyInfo.cs
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\obj\Debug\net9.0\Wavy.csproj.CoreCompileInputs.cache
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\obj\Debug\net9.0\Wavy.dll
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\obj\Debug\net9.0\refint\Wavy.dll
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\obj\Debug\net9.0\Wavy.pdb
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\obj\Debug\net9.0\Wavy.genruntimeconfig.cache
+C:\Users\joao1\Desktop\SD\Pratica\Wavy\obj\Debug\net9.0\ref\Wavy.dll
