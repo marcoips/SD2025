@@ -1,0 +1,14 @@
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\bin\Debug\net9.0\Agregador.exe
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\bin\Debug\net9.0\Agregador.deps.json
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\bin\Debug\net9.0\Agregador.runtimeconfig.json
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\bin\Debug\net9.0\Agregador.dll
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\bin\Debug\net9.0\Agregador.pdb
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\obj\Debug\net9.0\Agregador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\obj\Debug\net9.0\Agregador.AssemblyInfoInputs.cache
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\obj\Debug\net9.0\Agregador.AssemblyInfo.cs
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\obj\Debug\net9.0\Agregador.csproj.CoreCompileInputs.cache
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\obj\Debug\net9.0\Agregador.dll
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\obj\Debug\net9.0\refint\Agregador.dll
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\obj\Debug\net9.0\Agregador.pdb
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\obj\Debug\net9.0\Agregador.genruntimeconfig.cache
+C:\Users\joao1\Desktop\SD\Pratica\Agregador\obj\Debug\net9.0\ref\Agregador.dll
