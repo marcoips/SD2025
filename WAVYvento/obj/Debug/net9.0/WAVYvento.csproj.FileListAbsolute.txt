@@ -1,0 +1,14 @@
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\bin\Debug\net9.0\WAVYvento.exe
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\bin\Debug\net9.0\WAVYvento.deps.json
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\bin\Debug\net9.0\WAVYvento.runtimeconfig.json
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\bin\Debug\net9.0\WAVYvento.dll
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\bin\Debug\net9.0\WAVYvento.pdb
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\obj\Debug\net9.0\WAVYvento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\obj\Debug\net9.0\WAVYvento.AssemblyInfoInputs.cache
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\obj\Debug\net9.0\WAVYvento.AssemblyInfo.cs
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\obj\Debug\net9.0\WAVYvento.csproj.CoreCompileInputs.cache
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\obj\Debug\net9.0\WAVYvento.dll
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\obj\Debug\net9.0\refint\WAVYvento.dll
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\obj\Debug\net9.0\WAVYvento.pdb
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\obj\Debug\net9.0\WAVYvento.genruntimeconfig.cache
+C:\Users\joao1\Desktop\SD\Pratica\WAVYvento\obj\Debug\net9.0\ref\WAVYvento.dll
